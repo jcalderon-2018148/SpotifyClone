@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": "C:/shiina/BlueArchiveCorp/Spotify/spotify-clone",
+    "baseUrl": "./",
     "paths": {
       "@/*": [
         "src/*"
